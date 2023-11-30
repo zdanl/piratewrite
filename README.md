@@ -2,6 +2,10 @@
 
 ![cyberpunk_lesbian_duo](https://github.com/zdanl/piratewrite/assets/114028070/d034b033-dea5-4980-8581-a2ba4f2d0b8d)
 
+Which problem are you solving?
+
+<img width="982" alt="Screenshot 2023-11-30 at 02 00 10" src="https://github.com/zdanl/piratewrite/assets/114028070/401b3068-59bf-4b75-b903-bca25d50589a">
+
 
 <br />
 <p align="center">
