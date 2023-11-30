@@ -1,4 +1,4 @@
-> Great news! Appwrite Cloud is now in public beta! Sign up at [cloud.appwrite.io](https://cloud.appwrite.io) for a hassle-free, hosted experience. Join us in the Cloud today! ☁️🎉
+> Piratewrite is an Appwrite.io fork meant to support fiat and cryptocurrency payment natively, as well, scale to millions rather than thousands, with limits max.'ed out of the box ☁️🎉
 
 <br />
 <p align="center">
